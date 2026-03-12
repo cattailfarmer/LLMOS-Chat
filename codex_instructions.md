@@ -1,0 +1,1 @@
+Read Toribrot_Module.md, Toribrot-based_agent.md, and implement those protocols, using the toribrot system as an attention graph and the agent deliberations as a way to use that attention graph. The toribrot model shuld also be used to stage conversation, problems, and projects, as described in Toribrot-based_agent.md.
